@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254794146821']
+  const ownerNumber = ['917828026535']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -112,17 +112,17 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*✨ Hello, NEXUS-XMD Legend! ✨*
+  let up = `*✨ Hello, AAYUSH-XMD Legend! ✨*
 
-╭─〔 *🤖 NEXUS-XMD BOT* 〕  
-├─▸ *Simplicity. Speed. Power. BY Pkdriller |*  
+╭─〔 * AAYUSH X SPAM BOT* 〕  
+├─▸ *Simplicity. Speed. Power. BY AAYUSH|*  
 ╰─➤ *Your New WhatsApp Sidekick is Here!*
 
-*❤️ Thank you for Choosing NEXUS-XMD!*
+*❤️ Thank you for Choosing AAYUSH X SPAM!*
 
 ╭──〔 🔗 *Quick Links* 〕  
 ├─ 📢 *Join Our Channel:*  
-│   Click [**Here**](https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x) to join!  
+│   Click [**Here**](https://chat.whatsapp.com/F4DbPQdtNHOEJgitzUleCv) to join!  
 ├─ ⭐ *Give Us a Star:*  
 │   Star Us [**Here**](https://github.com/Pkdriller/NEXUS-XMD)!  
 ╰─🛠️ *Prefix:* \`${prefix}\`
